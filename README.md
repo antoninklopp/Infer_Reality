@@ -1,7 +1,7 @@
 # Infer_Reality
 Code of the game InferReality
 
-This code was created the Scientific Game Jame 2018 in Grenoble. 
+This code was created during the Scientific Game Jame 2018 in Grenoble.
 
 Link to the windows version : https://redalert.itch.io/infer-reality-game-jam-2018
 
